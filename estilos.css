@@ -168,8 +168,8 @@ header div img{
 
 footer {
 	text-align: center;
-	padding: 3px;
-	background-color: DarkSalmon;
+	padding: 13px;
+	background-color: rgba(80, 76, 75, 0.342);
 	color: white;
 }
 
